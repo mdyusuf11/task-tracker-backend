@@ -90,3 +90,7 @@ postgres-# \q
 
 & "C:\Program Files\PostgreSQL\18\bin\psql.exe" -U postgres -h 127.0.0.1 --> open psql as postgres
 & "C:\Program Files\PostgreSQL\18\bin\psql.exe" -U yusuf -h 127.0.0.1 -d --> login as tasktracker
+
+Test Case:
+---------
+pytest --> execute this to run test cases
